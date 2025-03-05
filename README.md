@@ -1,10 +1,3 @@
-Here's the updated README incorporating your feedback:
-
-- **Clarified that the easiest way to test the Discord bot is to give it admin permissions but recommends reducing privileges afterward.**
-- **Corrected the `contentGenerationPrompt` explanation, specifying that it's a file (`src/prompts/contentGenerationPrompt.md`) instead of a Notion field.**
-
----
-
 # DiscordToNotionContentAutomation
 
 This project automates the process of capturing ideas from a specific Discord channel, adding them to Notion, generating content using ChatGPT, and storing the generated content back in Notion.
